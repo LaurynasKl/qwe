@@ -23,7 +23,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-2">
-                <form action="http://localhost/capybaros/crud/read.php" method="get">
+                <form action="http://localhost/qwe/read.php" method="get">
                     <div class="mb-3">
                         <label for="amount" class="form-label">Sort By</label>
                         <select class="form-select" name="sort">
@@ -35,7 +35,7 @@
                         </select>
                     </div>
                     <button type="submit" class="btn btn-primary">Sort</button>
-                    <a href="http://localhost/capybaros/crud/read.php" class="btn btn-secondary">Clear</a>
+                    <a href="http://localhost/qwe/read.php" class="btn btn-secondary">Clear</a>
                 </form>
             </div>
         </div>
